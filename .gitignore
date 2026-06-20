@@ -1,0 +1,10 @@
+_site
+.jekyll-cache
+.sass-cache
+.jekyll-metadata
+.bundle
+vendor/ 
+list.txt
+index.md
+commit.md
+livereport.txt

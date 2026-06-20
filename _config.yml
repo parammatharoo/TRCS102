@@ -1,0 +1,10 @@
+title: TRCS102
+description: Six week institutional training
+
+theme: just-the-docs
+
+url: "https://parammatharoo.github.io"
+baseurl: "/TRCS102"
+
+color_scheme: dark
+search_enabled: true
