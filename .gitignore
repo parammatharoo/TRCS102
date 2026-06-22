@@ -5,6 +5,6 @@ _site
 .bundle
 vendor/ 
 list.txt
-index.md
 commit.md
-livereport.txt
+livereport.md
+f.md
