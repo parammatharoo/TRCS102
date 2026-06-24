@@ -1,3 +1,10 @@
+---
+layout: default
+title: Day 02
+nav_order: 2
+permalink: /day02
+---
+
 ## 23/06/2026 [ Day 2: Rules, and Hello Linux ]
 
 Today had two completely unrelated halves, which is apparently just how this course is going to work.
