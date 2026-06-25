@@ -6,7 +6,7 @@ permalink: /day03
 ---
 
 
-## 24/06/2026 -  Day 3: Permissions, Tools, and Poking at Ports
+## 24/06/2026 [ Day 3: Permissions, Tools, and Poking at Ports ]
 
 **Linux file management & permissions.** Every single file in Linux has an owner, a group, and a set of permissions (read, write, execute) for the owner, the group, and everyone else. You check permissions with `ls -l`, and change them with `chmod`. Managing who exists at all is done with commands like `adduser`, `usermod`, and `addgroup`. Linux is, frankly, a control freak about who is allowed to touch what -  which is exactly the point.
 
